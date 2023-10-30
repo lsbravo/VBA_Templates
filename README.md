@@ -18,7 +18,5 @@ Hit save.
 
 To use the custom fuction, you'll type it in like any other--make the cell =ProjLink() and include the project name between the parentheses. If you're operating inside a table, you can use [@ColumnName] to make the formula more readable.
 
-
-
-
+![TheFormula](https://github.com/lsbravo/VBA_Templates/assets/121823541/972ea747-982e-4b85-ad99-7577e569c7ef)
 
