@@ -1,0 +1,13 @@
+Function ProjLink(Task)
+
+    'Remove
+    Path = Replace(Replace(Task, " ", "_"), ",", "")
+    
+    If InStr(Task, "Phase") > 0 Then
+    
+    Path = Replace(Path, "_Phase", "\Phase")
+    End If
+    
+    ProjLink = "Q:\Projects\" & Path
+     
+End Function
