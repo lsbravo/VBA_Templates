@@ -1,6 +1,6 @@
 # VBA Templates
 
-#A Quick Intro on Adding Custom Functions
+# A Quick Intro on Adding Custom Functions
 
 Save your Excel file as an .xlsm, and go to the Developer Tab. Hit Visual Basic.
 
